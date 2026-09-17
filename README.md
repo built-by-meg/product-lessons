@@ -42,5 +42,3 @@ takes/           # published essays
 skills/          # agent skills + coming soon
 README.md        # you are here
 ```
-
-More coming soon.
