@@ -35,14 +35,6 @@ Copy `skills/product-council/` into your project’s `.cursor/skills/` (or insta
 
 ---
 
-## Why this exists
-
-I work on product-led growth for Copilot by day and vibe-code by night. *Product Lessons* is the forcing function: form an opinion, ship the artifact, keep the skills that made the thinking sharper.
-
-Inspired in part by demo culture in *Creative Selection* and public skill libraries like [Behind the Craft](https://www.behindthecraft.com/wiki).
-
----
-
 ## Repo layout
 
 ```
